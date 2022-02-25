@@ -1,0 +1,555 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A pleasant dialogue. betweene a lady called Listra, and a pilgrim Concerning the gouernment and common weale of the great prouince of Crangalor. 1579.</title>
+            <author>T. N., fl. 1579.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1579</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 33 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A68491</idno>
+            <idno type="STC">STC 18335.5</idno>
+            <idno type="STC">ESTC S110071</idno>
+            <idno type="EEBO-CITATION">99845688</idno>
+            <idno type="PROQUEST">99845688</idno>
+            <idno type="VID">10604</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A68491)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 10604)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 379:21, 381:1, 1732:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A pleasant dialogue. betweene a lady called Listra, and a pilgrim Concerning the gouernment and common weale of the great prouince of Crangalor. 1579.</title>
+                  <author>T. N., fl. 1579.</author>
+                  <author>Nicholas, Thomas, b. ca. 1532, attributed name.</author>
+               </titleStmt>
+               <extent>[74] p.   </extent>
+               <publicationStmt>
+                  <publisher>By Iohn Charlewood, dwelling in Barbican at the signe of the halfe Egle and Keye,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>[1579]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: T.N., i.e. Thomas Nicholas?.</note>
+                  <note>Signatures: A-B C2 ; A4 B-C (-C8).</note>
+                  <note>"The second part of the painefull iorney of the poore pylgrime into Asia, and the straynge woonders that he sawe" has separate dated title page and register.</note>
+                  <note>Identified as STC 18335+ on UMI microfilm reel 379 and as STC 18355++ on reel 381.</note>
+                  <note>Reproductions of a photostat of the original in the Henry E. Huntington Library and Art Gallery.</note>
+                  <note>Appears at reel 379 (part 1 only), reel 381 (part 2 only) and at reel 1732 (both parts; same copy filmed in all three cases).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:10604:1"/>
+            <pb facs="tcp:10604:1" rendition="simple:additions"/>
+            <p>¶ A pleaſant <hi>Dia<g ref="char:EOLhyphen"/>logue, betweene a <hi>Lady called</hi>
+               </hi> Liſtra, <hi>and</hi> a Pilgrim. Concerning <hi>the gouernment and com<g ref="char:EOLhyphen"/>mon <hi>weale of the great prouince of</hi>
+               </hi> Crangalor. 1579.</p>
+            <p>
+               <g ref="char:leaf">❧</g> Imprinted at <hi>London by John</hi> Charlewood, dwelling in Barbican at the ſigne of the halfe Egle and Keye.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:10604:2"/>
+            <pb facs="tcp:10604:2" rendition="simple:additions"/>
+            <head>
+               <g ref="char:leaf">❧</g> To the Worſhipfull, <hi>Maiſter</hi> Edward Diar, <hi>Eſquier:</hi> Liſtra <hi>wiſheth proſperity.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">I</seg> 
+               <hi>Iudge</hi> wor<g ref="char:EOLhyphen"/>ſhipful ſir, that you wil won<g ref="char:EOLhyphen"/>der how I a ſtrainger, pre<g ref="char:EOLhyphen"/>ſume to write this little dia<g ref="char:EOLhyphen"/>logue to your Worſhip: Nay rather you will mar<g ref="char:EOLhyphen"/>uell, how alſo I write in the Engliſhe tongue. But to make plaine theſe cau<g ref="char:EOLhyphen"/>ſes, fyrſt I ſay, although I dwell ſo far from your natiue ſoyle, yet by traue<g ref="char:EOLhyphen"/>lers I haue heard of your parentage &amp; vertuous minde touching the publike weale of your Country, and this is the cauſe wherefore I offer this Pilgrimes talke vnto your Worſhip, and where I write in your owne language, you
+<pb facs="tcp:10604:3"/>
+ſhal vnderſtand, that I proceede out of a noble houſe and linage, where my deare and louing parents, wiſhed: yea and alſo procured that I mought haue vnderſtanding in forreyn languages, among the which I chiefely deſired to ſpeake and write the Engliſh tongue. wherefore I craue of your worſhip, to receyue this Pamphlet, and to pardon my baſe ſtile in your language, conſi<g ref="char:EOLhyphen"/>dering I am a ſtrainger, and ſo doo<g ref="char:EOLhyphen"/>ing, my deſire ſhalbe fully ſatiſ<g ref="char:EOLhyphen"/>fied, and God graunt your gentle harts deſire.</p>
+            <closer>
+               <signed>Your louing friend <hi>Liſtra,</hi> of <hi>Corinth.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:10604:3"/>
+            <head>
+               <g ref="char:leaf">❧</g>The Dialogue.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>T fortuned, the</hi> Lady <hi>Liſtra,</hi> comming from her ſumptuous houſe in the Countrey and going toward <hi>Corinth,</hi> accom<g ref="char:EOLhyphen"/>panied with two proper younge Gentlemen her Pages, ſhe by chaunce, ouertooke a poore Pil<g ref="char:EOLhyphen"/>grime, clothed with a longe veſture of Sackcloth, and an vpper gar<g ref="char:EOLhyphen"/>ment of the ſame, with a large Felt Hat on his head: this Pilgrime was a man well growne in yeeres, as appeared, by his white head and longe beard, vnto whom the Lady ſayeth as followeth.</p>
+            <sp>
+               <speaker>Lady.</speaker>
+               <p>Well ouertaken, father Pilgrime, and in good time.</p>
+            </sp>
+            <sp>
+               <speaker>Pilgrime.</speaker>
+               <p>Good Madam you are moſte hartely welcome.</p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>Father I pray you, whether doo you iour<g ref="char:EOLhyphen"/>ney this waye.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>Forſooth Ma<g ref="char:EOLhyphen"/>dam
+<pb facs="tcp:10604:4"/>
+now God willing I meane to paſſe to <hi>Corinth,</hi> and from thence into <hi>Aſia Maior.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>I perceyue your Pilgrimage hath bin longe, but when meane you to ceaſe and take your reſt.</p>
+            </sp>
+            <sp>
+               <speaker>P</speaker>
+               <p>Madam when my body is layed in Graue. For truely, al mankinde hath but a pilgrimage in this worlde: yea although they liue at home in their natiue Coun<g ref="char:EOLhyphen"/>trey and delectable houſes, an ende they muſt haue of their pilgrimage. But I and ſuche other poore Pil<g ref="char:EOLhyphen"/>grimes doo often ſee by Lande and Sea, the admyrable workes of the almightie. The which to tell when I come home, the fooliſh wyll holde me for a lyar: yet I dooe dayly more and more, praiſe God, who is ſo great, and this is my only contenta<g ref="char:EOLhyphen"/>cion</p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>But tell me father Pil<g ref="char:EOLhyphen"/>grime go you now to viſit any mo<g ref="char:EOLhyphen"/>nument of the Goddeſſe <hi>Flora,</hi> here in <hi>Corinth.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>No Madam I care not forſuch relikes. For my frend a
+<pb facs="tcp:10604:4"/>
+Philoſopher warned me by y<hi rend="sup">e</hi> waye a<gap reason="illegible" resp="#UOM" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>ame, ſaying. <hi>Non licet omnibus adicere Corinthum:</hi> yea alſo he wi<g ref="char:EOLhyphen"/>ſhed me not to buye repentance too deare, among Dame <hi>Floras</hi> dames.</p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>Well father, doo you meane to abide heere any long ſeaſon?</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>No lenger Madam then I may amend my Shooes, Hoſe, and alſo prouide other furniture for my Scrippe and Bottell.</p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>I pray you good father holde me not for importunate, to demaund of you a queſtion or two.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>Rather Madam you ſeeme ſo wiſe, that I receyue pleaſure by your communication: therfore good Madam ſay on.</p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>I will not re<g ref="char:EOLhyphen"/>quire of you to ſignifye vnto me the lawes, cuſtomes, rites, ceremonies, and ſtrainge vſages of the <hi>Hethites,</hi> among whom you haue trauailed, for I know the ſame to be horryble and abhominable. But tell me I pray you, haue you bin among the Chriſtians in <hi>Eaſt India.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>Yea Ma<g ref="char:EOLhyphen"/>dam
+<pb facs="tcp:10604:5"/>
+I abode a certaine time, in the famous Cittie called <hi>Crangalor,</hi> which ſtandeth ſcituated neare the pleaſaunt Riuer of <hi>Guadalquiuer.</hi> This Cittie is not onely adorned with beautie of ſumptuous Tem<g ref="char:EOLhyphen"/>ples, Towers &amp; coſtly Howſes, ple<g ref="char:EOLhyphen"/>ſant Orchards, &amp; ſweete Gardeins: but cheefely decked with notable gouernment and celeſtiall Iuſtice.</p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>Hath this Countrey a kinge or a Prince for chiefe Lord and Ruler.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>A Prince forſooth called <hi>Baſha Haily.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>Then I praye you tell what reuerence doth thoſe ſubiects to their Prince.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>O Madam true<g ref="char:EOLhyphen"/>ly exceeding great. But firſt they ſay yea and ſtedfaſtly beleeue, that theyr Prince, is the onely Deputie and Lutenaunt of God him ſelfe within his dominions, to execute and maintaine Iuſtice, yea ſuch a one, that is not noted of any great crime, for ſay they God is pure and holy, euen ſo ought his Deputie to
+<pb facs="tcp:10604:5"/>
+be in maintayninge right and Iuſ<g ref="char:EOLhyphen"/>tice. So that the ſubiects of this Prince, are wonderfull obedient, with life and goods, and other loy<g ref="char:EOLhyphen"/>all ſeruice.</p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>Then muſt needes follow, that the Nobilitye are ver<g ref="char:EOLhyphen"/>tuous and prudent.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>Yea Ma<g ref="char:EOLhyphen"/>dam, as members ſo neceſſarye to ſo godly a Prince, they are decked with humble harts, and farre from all corruption.</p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>The Cleargye then ſhould ſeeme, to liue according to the Goſpell.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>O Madam I can<g ref="char:EOLhyphen"/>not let, but highly co<g ref="char:cmbAbbrStroke">̄</g>mend y<hi rend="sup">e</hi> Clear<g ref="char:EOLhyphen"/>gye, for the ritcheſt Biſhops &amp; Pre<g ref="char:EOLhyphen"/>lats are not trimmed in ſylkes, but clothed in honeſt decet attire. Theſe men name themſelues the Criers of God, and Steward of the poore. For ſaye they euen as the lawes of the Prince are Proclaimed, through his dominions to the intent his ſub<g ref="char:EOLhyphen"/>iects ſhould know his will, euen ſo ſay they, are we the Cryers of God to proclayme, preache and ſet foorth
+<pb facs="tcp:10604:6"/>
+the lawes of the euerlaſting God, as well in teaching, as in our liuing &amp; behaueour: for if we do not ſo ſay they, the Prophet telleth vs that the bloud of our flock ſhalbe demau<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>ded at our hands.</p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>But why do they go ſo plaine appareled, being Lords and of great calling?</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>I of my ſelfe Madam, will ſay no more then I haue harde at their owne mouthes. They ſay that Chriſt wil<g ref="char:EOLhyphen"/>led his holy Apoſtels, to leaue their Nets and other worldly goods, and follow him, who in al the time, that his ſacred Maieſtie abode vpon earth, had neuer any great bodilye <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>: but continuallye like a good Shepheard went from valley to valley, from hill to hill, from paſture to paſture, to ſeeke his loſt Sheepe, and being fou<g ref="char:cmbAbbrStroke">̄</g>d, brought them home vpon his bleſſed ſhoulders, to his hierd and Sheepefolde, calling all<g ref="char:EOLhyphen"/>wayes ſynners to repentaunce: ſo ſay they we being his diſciples muſt
+<pb facs="tcp:10604:6"/>
+euery one of vs take vp his owne Croſſe and followe him.</p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>Way the<g ref="char:cmbAbbrStroke">̄</g> how can they diſpend the great profit and reuenues of their biſhop<g ref="char:EOLhyphen"/>rikes and other benefices.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>Why Madam doo you maruell at that, Then harken I pray you. Theſe good Prelats doo weekely go vnto the common Iaile, where a great number of priſoners are, ſome for debt, and ſome for other offence, and there doo they preache the worde of God amonge them, perſwading them to repentance and to forſake their euill liuing, they doo not onely in this ſort comfort the poore afflic<g ref="char:EOLhyphen"/>ted priſoners, but alſo do according to neede, cloath them which want clothing: yea and three times in the yeare, at the principal feaſts, all ſuch priſoners which lie in priſon for the ſum of twentye Markes or vnder, theeſe good religious men, doo pay the debt, and ſet the poore at liberty with great admoniſhion, how to
+<pb facs="tcp:10604:7"/>
+flee from fallinge into daunger a<g ref="char:EOLhyphen"/>gaine. This liuely worke of faith ſpringeth not alone in them, but al<g ref="char:EOLhyphen"/>ſo the poore Orphants and May<g ref="char:EOLhyphen"/>dens, which want dowries for ma<g ref="char:EOLhyphen"/>riage, are prouided out of theyr houſe of Mercy, yea euery ſorte of poore people are wel remembred a<g ref="char:EOLhyphen"/>monge the<g ref="char:cmbAbbrStroke">̄</g>. And in this ſort ſay they we are Stewarde of the poore ac<g ref="char:EOLhyphen"/>cording to Chriſt his commaunde<g ref="char:EOLhyphen"/>ment.</p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>Why then they deale not in Vſerye, or other like Marchandize.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>O no good Madam thoſe wicked vices, are farre from them, for true<g ref="char:EOLhyphen"/>ly I may boldly ſaye, that at the yeares end, all their great reuenues are conſumed, in order aforeſayde.</p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>And is there no other ſorte of religious perſons, within the do<g ref="char:EOLhyphen"/>minion of <hi>Crangalor?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>Yes Madam, there is an other ſorte of Contemplatiues, who liueth by the labour of theyr handes, in the Mountaines, and theſe are Silke-weauers,
+<pb facs="tcp:10604:7"/>
+which liue onely vpon that occupation, and at certayne tymes doo occupye themſelues in prayer, calling vpon the name of Ieſus.</p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>Truely father Pil<g ref="char:EOLhyphen"/>grime I doo reioyce to heare of ſuch vertuous and religious men, who are occupied daye and night in the lawe of God, for I would ſcarcely haue beleeued that any ſuch had li<g ref="char:EOLhyphen"/>ued on earth, well good father proceede to the Miniſters of the Lawe.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>I I ſhoulde not ſeeme vnto you good Madam tedious: I would ſay ſome what of theyr be<g ref="char:EOLhyphen"/>hauoour.</p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>Naye rather you doo me pleaſure, and I geue you moſte hartye thankes.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>Firſte their Iudges are excellent learned men, &amp; ſuch as are choſen out of the Vniuerſity, by the Princes Coun<g ref="char:EOLhyphen"/>ſell, for their excellency, grauitye and learning. Theſe graue Iudges haue no kinde offees, for ſeales or reknowledging of writings, or ſuch
+<pb facs="tcp:10604:8"/>
+like, but are maintained with rea<g ref="char:EOLhyphen"/>ſonable ſtipend at the Princes coſt.</p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>Why then there are no Iuries of twelue men to trye the right of any?</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>Alas no Madam would you w ſh twelue ſimple men, with<g ref="char:EOLhyphen"/>out learning to decide the doubtfull and hard caſes in lawe: no, God for<g ref="char:EOLhyphen"/>bid.</p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>Will not thoſe Iudges now and than take bribes?</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>No Ma<g ref="char:EOLhyphen"/>dam, for the puniſhment is gree<g ref="char:EOLhyphen"/>uous for ſuch an offence: yea and the Prince to auoide that wickedneſſe, dooth yeerely make preuie enquiry of the adminiſtration of Iuſtice, to gratify the good Iudges and to pu<g ref="char:EOLhyphen"/>niſh the wicked. But yet I doo re<g ref="char:EOLhyphen"/>member of one Iudge, that tooke a Gooſe ſtuffed with gold for a bribe. But when the caſe was knowen to the Prince, he commaunded the Iudges legge to be ſawen off, with a woodden ſawe, in the open Mar<g ref="char:EOLhyphen"/>ket place. And when the execution was doon, the Prince cauſed the
+<pb facs="tcp:10604:8"/>
+Iudge to come before him, ſaying vnto him: ſirra is the ſtuffing of a Gooſe good meate, but the Iudge anſwered not one word. Wel quoth the Prince receyue your office a<g ref="char:EOLhyphen"/>gaine, and looke well what meate you eate: who ruled afterward ex<g ref="char:EOLhyphen"/>ceeding well. The example where<g ref="char:EOLhyphen"/>of did ſo terrifie, that bribes were cleane baniſhed.</p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>Now aſſured<g ref="char:EOLhyphen"/>ly, this Prince may welbe called the Deputie of God, but ſythens the Iudges are ſo vpright in Iuſtice, than what ſay you to the Counſel<g ref="char:EOLhyphen"/>lers and other miniſters of the law?</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>I muſt needes commend them Madam, for there the good Law<g ref="char:EOLhyphen"/>yers haue very fayre and large ſtu<g ref="char:EOLhyphen"/>dies, and beſet with many fayre Chayres, ſo that the client when he commeth is commaunded to ſit him downe in one of thoſe chayres, and to put on his bonet. Then he ope<g ref="char:EOLhyphen"/>neth his caſe, if it appeare a iuſt and lawfull ſute: then the ſayd Lawyer
+<pb facs="tcp:10604:9"/>
+deuiſeth his Plea, and his Clarke penneth the ſame, with the lines neare together, for they know not what great ſpaces betwixt lines after eight pence a ſheete, meaneth. Now the Plea being drawen, and contayne a large ſheete of paper, written as aforeſayde, the Clyent paieth to his Lawier two ſhillings and three pence for the Clarke, wherewith they are well ſatiſfied. But if the cauſe apeareth not good and iuſt, then the Lawyer perſwa<g ref="char:EOLhyphen"/>deth the party, not to deale any fur<g ref="char:EOLhyphen"/>ther: and ſo alwayes wronge is thruſt out of the dores. Theſe Lawyers abhorre couetouſneſſe, and know not what Golden An<g ref="char:EOLhyphen"/>gels meane. The Iudges ſyt dayly through the yeare in iudgement, the Feſtiual dayes excepted, ſo that there is no iſſue or tryall vpon one point or braunch of a matter, but rather by thoſe learned Iudges, a whole matter is ended at once,
+<pb facs="tcp:10604:9"/>
+which is a good and godly waye. The Counſellers in Lawe, ſit on each ſyde of the Iudges: I meane not on the ſame benche where the Iudges ſyt, but rather on each ſyde of the iudiciall place, and the Iud<g ref="char:EOLhyphen"/>ges at the vpper end. So there is no ſtriſe who ſhal come to the Bar: But when any ple is related. Then it is lawfull for euery Lawyer to exclaime the meaning of the words on his Clyents behalfe: but with very fewe wordes.</p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>But may not the party agreeued, appeale of any ſentence?</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>Yes, if the cauſe amount aboue the ſum of one hun<g ref="char:EOLhyphen"/>dred pounde, the partie agreeued may appeale to the Princes Coun<g ref="char:EOLhyphen"/>ſell: where alwayes two ſynguler Counſellers attendeth ſuch cauſes, euen as a Chauncery to mittigate extremity of Law.</p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>Then how dooth the poore folke obtaine Iuſ<g ref="char:EOLhyphen"/>tice againſt the riche and mightye.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>O Madam wounderfull well.
+<pb facs="tcp:10604:10"/>
+For the poore ſhall haue rather more fauour then the ritch, it is ſo Madam that the moſt famous lear<g ref="char:EOLhyphen"/>ned man within the precynt of the whole Cittie, he I ſay is appointed for Aduocate of the poore, and hath a great ſtipend of the Cittizens for his paynes. And thinke you Ma<g ref="char:EOLhyphen"/>dam that he is the baſeſt office in a Common weale? No: for this aduo<g ref="char:EOLhyphen"/>cate is had in greateſt honour, next vnto the Princes Councell, &amp; chiefe Iudges. And againe when the com<g ref="char:EOLhyphen"/>plaint of the poore commeth before the Iudges in the iudicial Hall, then ſaith the Attorny of the poore, who hath alſo his wages of the Citizens. My Lords, it may pleaſe you to heare a poore mans cauſe. This voyce is no ſooner heard, when the Iudges ſtaieth all matters, except it touch the eſtate, and incontinent the poore man sſute is diſpatched: for if it ſhould not be ſo, then many times would it happen, as once a
+<pb facs="tcp:10604:10"/>
+ſute depending betweene a poor Poticary and a Butcher, for when their Plea is determined by the in<g ref="char:EOLhyphen"/>ferior Iudge: the Poticary caried priuely to the Iudge a little Pot of Conſerua, beſeeching him to reme<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>ber his matter againſt the butcher. The Iudge tooke it and ſayde he would prouide Iuſtice. But when the Butcher heard of the preſenting of this bribe, he went and killed a good fat Hog and brought it to the Iudge, requeſting his fauor againſt the Poticary: y<hi rend="sup">e</hi> Iudge alſo receiued it, and bad him depart. It ſo fell out, that the ſentence paſſed on the But<g ref="char:EOLhyphen"/>chers ſyde. But whe<g ref="char:cmbAbbrStroke">̄</g> the poore Po<g ref="char:EOLhyphen"/>ticary had notice thereof, he came railing to the Iuſtice houſe, ſaying to the Iudge: ſyr how chaunſt you remembred not both my right &amp; pot of Conſerua. Yes quoth the Iudge, I remember them bothe, but as for your Conſerua, there came a Hog &amp; threw down your pot, ye &amp; ſpilt it, ſo
+<pb facs="tcp:10604:11"/>
+that I neuer found any ſweetenes therein. Mary ſir quoth y<hi rend="sup">e</hi> Poticary a murraine and a peſtilence take ſuch a Hog that ſpilt both my Iuſ<g ref="char:EOLhyphen"/>tice and Conſerua. So that Ma<g ref="char:EOLhyphen"/>dam I tell you this merry tale, to the ende that you may know how in this happy Lande, it preuaileth not for the ritch to ſay I haue a fat purſe: for why, the good Iudges, hath ſo great a feare of God and the Prince, that no cor<g ref="char:EOLhyphen"/>ruption can auaile. And certainely the godly Diuines, are a great cauſe thereof, for they will not let to tell all eſtates their faultes, by ſome honeſt meanes: by reaſon whereof, they doo well know, that they the<g ref="char:cmbAbbrStroke">̄</g>ſelues, ſhall come to iudge<g ref="char:EOLhyphen"/>ment, and be Iudged, ſo that accor<g ref="char:EOLhyphen"/>ding to the oppinion of S. <hi>Ierom,</hi> they haue dayly the ſounde of the Trumpet in their eares, that ſhall call to Iudgement. And this is the principall cauſe, that they do liue in
+<pb facs="tcp:10604:11"/>
+the feare of God, and are bleſſed.</p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>I doo moſt highly praiſe this godly rule and order. But how are Criminall matters decided.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>For<g ref="char:EOLhyphen"/>ſoothe Madam the Iudges which haue the charge of Criminall mat<g ref="char:EOLhyphen"/>ters, doo likewiſe ſit all the whole yeare in the iudiciall place: but as I ſayde before, feſtiuall dayes excep<g ref="char:EOLhyphen"/>ted. Theſe Iudges vſe great polli<g ref="char:EOLhyphen"/>cye to ſearche out the troth, againſt any accuſed of crime, and the troth manifeſtly knowen, the offence is corrected with greeuous puniſh<g ref="char:EOLhyphen"/>ment: but otherwiſe they haue great feare of ſhedding innocent bloud, by reaſon whereof euery pri<g ref="char:EOLhyphen"/>ſoner is permitted to haue an ad<g ref="char:EOLhyphen"/>uocate, &amp; make exceptions againſt his accuſers. And when any offen<g ref="char:EOLhyphen"/>der is condemned to ſuffer paines of death, he hath three dayes reſpite to repent his former life, they alſo haue good men that neuer leaueth perſwading them earneſtly to re<g ref="char:EOLhyphen"/>pent,
+<pb facs="tcp:10604:12"/>
+and only to ſtick vnto the mer<g ref="char:EOLhyphen"/>cy of our Lord Ieſus. Truely Ma<g ref="char:EOLhyphen"/>dam I haue ſeene ſome dye, with ſuch penitent &amp; humble harts, that any good Chriſtian would haue co<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>mended their conſtant faith.</p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>Sure, this is a charitable act.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>I muſt needes confeſſe Madam, that the people in this Country are fully perſwaded, that there are but two wayes of eternitye, the one leadeth vnto perpetual ioy and euerlaſting, felicity, and the other to euerlaſting, horrible and vnquenchable hell ſier, the which bothe places, ſhall haue no end, whileſt God is God, and y<hi rend="sup">t</hi> is infynite.</p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>The name of Ieſus be praiſed for ſuch a Country and people.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>Alſo Madam whileſt I abode in <hi>Crangalor,</hi> I ſaw three perſons puniſhed, the one was a woman, and ſhe was conuicted of Sorcery &amp; Witchcraft, but no hurt doone by her to either man or beaſt, approoued: yet for her dealing in
+<pb facs="tcp:10604:12"/>
+that arte, ſhe was condemned. The execution was, ſhe was ſet vpon an Aſſe, her body naked vnto her Na<g ref="char:EOLhyphen"/>uill, and annoynted all ouer with Honny, the which was beſet full of ſmall Feathers of Downe, with a Miter on her head, of a yarde long, and in this ſorte ſhe rode about the ſtreets accuſtomed, with a Trum<g ref="char:EOLhyphen"/>pet blowen before her, and a Cryer manifeſting her offence. An other was puniſhed for periury, this man rode likewiſe vpon an Aſſe, about the accuſtomed ſtreetes: but not na<g ref="char:EOLhyphen"/>ked. And in the Market place, there was a Barbor attending for hym, with his Inſtruments, and there he was foreced to open his mouthe, and all his teeth being accoumpted, the Barbor drew out euery fifthe toothe, in ſuch ſort Madam, that neither money, nor friendſhip can redeeme any puniſhment in that Countrey. The thyrde perſon that
+<pb facs="tcp:10604:13"/>
+I ſaw puniſhed, was a wittoll and he I ſay, rode vpon an Aſſe about the ſayd ſtreetes, with a Hartes horne on his head ful of ſmall Bels, and his wife rode alter whipping him, and then followed the hange<g ref="char:EOLhyphen"/>man, whipping them bothe.</p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>O moſte happy Land, where vice is ſo puniſhed. But I pray you ſay father the poore Priſoners that are impri<g ref="char:EOLhyphen"/>ſoned for det, are they put in yrons?</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>No Madam, for there they hold opinion, that none ought to were Yrons, but ſuch as hath co<g ref="char:cmbAbbrStroke">̄</g>mitted o<g ref="char:EOLhyphen"/>dious crimes, for otherwiſe ſay they y<hi rend="sup">e</hi> Iaile is no other thing but onely a ſafe cuſtody.</p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>Yet they pay fees for their Yrons.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>Alas Mada<g ref="char:cmbAbbrStroke">̄</g> God forbid: for thinke you, that it were a iuſt cauſe, that a poore man, who hath fallen into debt by ſundry miſ<g ref="char:EOLhyphen"/>haps, ſhould now in priſon be puni<g ref="char:EOLhyphen"/>ſhed with fees of Yrons, and incurre into a new debt: nay they hold ſuch vſage for abhominable extorcion,
+<pb facs="tcp:10604:13"/>
+and a thinge odious in the ſight of God.</p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>But yet I thinke they paye eighteene pence a day for their meate, and a groate for their bead, or at the leaſt twelue pence a day, and a groate for their bead.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>That alſo Madam is holden for an abo<g ref="char:EOLhyphen"/>minable vſe. But troth it is that any Priſoner for debt, may bring his bead, his meate and drink from whence he wil. And if he be ſo poore that he hath nothing wherewith to maintaine himſelfe. Then the houſe of charitie prouided for ſuch a one.</p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>What fees hath the Iayler then?</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>Forſooth ſyxe pence for e<g ref="char:EOLhyphen"/>uery Priſoner, and alſo a yearely ſtipend of the Cittizens, ſufficient to mainetaine an honeſt man.</p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>I haue father Pilgrim throughly vn<g ref="char:EOLunhyphen"/>derſtood all your talke. But now I pray you how dooth the Notaries, Skriueners, and ſuch like officers vſe themſelues.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>Madam I muſt alſo commend their vſage: for why
+<pb facs="tcp:10604:14"/>
+you ſhall vnderſtand, that euery Notary, Scriuener or ſuche like officer, concerninge either tempo<g ref="char:EOLhyphen"/>rall or eccleſiaſticall affaires haue their offices from the Prince, for a certayne ſumme of money vnder the Princes Seale: the which offices each one dooth enioye for terme of life, except he make reſig<g ref="char:EOLhyphen"/>nation thereof to his ſonne, or ſome other friend, fifteene dayes or more before his death and for wante of ſuche reſignation the of<g ref="char:EOLhyphen"/>cie commeth againe to the Prince: but in effect, euer ſuch officer geueth ſufficient Sureties to the Prince, for the true and faithfull executing of his office, by meane where of all falſe wrytinges, and abhominable deceipts are vtterly baniſhed. More euer euery ſuch Notary or Scriue<g ref="char:EOLhyphen"/>ner hath his bookes of Recordes, wherein the parties obliged dooth ſet their firmes and ſeales, with two or three witneſſes, which teſtifye
+<pb facs="tcp:10604:14"/>
+that they do know, that the parties ſo obliged, are the very ſelfe ſame men, to auoide all colluſion. This doon the Scriuener vnder his firme and ſygne, geueth the partie creaditor the copye of the Bonde, which is auaileable, and pleadeable in Lawe: the cauſe hereof is to auoide all ſubtutie, for many times poore men by ſome ſiniſter meane or caſualty, hath his writings ſtol<g ref="char:EOLhyphen"/>len, enbeſſeled, burned, or loſte: yet were it not iuſt, that thoſe men ſhould loſe their right and title. In conſideration whereof the ori<g ref="char:EOLhyphen"/>ginall matters remayneth aliue in the ſayde Scriueners bookes, in order aforeſayde. Euery Ob<g ref="char:EOLhyphen"/>ligation contayneth a ſheete of Paper, neere written, for the which the Scriuener is to haue ſyxe pence and no more, and o<g ref="char:EOLhyphen"/>ther ſyxe pence for the Copye if the partye wyll haue it. But thys muſte I ſaye vnto you
+<pb facs="tcp:10604:15"/>
+Madam the cauſe of this godly go<g ref="char:EOLhyphen"/>uernment is, that once in two or three yeeres, the Prince ſendeth ſe<g ref="char:EOLhyphen"/>cret viſitors: who taketh all theſe Scriueners or Notaries Recorde's into theyr power, and commaunde to Proclaime through the Cittye, that if any perſon or perſons, know any falſhood in the ſayde Officers, concerning their Offices, that then they come and manifeſt the ſame: and the offence or offences knowen, ſome hath their hands cut off, other ſome depriued from their offices, and others condemned to the Gally for ſlaues: yea the Lawe is that if any writing chaunce to be enterly<g ref="char:EOLhyphen"/>ned, then muſt the Scriuener recite the ſame words at the foote of the writing, before the partie or par<g ref="char:EOLhyphen"/>ties ſeale thereto.</p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>But is this order throughout all the Princes dominions, in Citties, Viliages, and Townes?</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>Yea truely Ma<g ref="char:EOLhyphen"/>dam, and all other writings of no
+<pb facs="tcp:10604:15" rendition="simple:additions"/>
+effect, except ſome Billes or writing made in extreme neceſſity, which are afterward recknowleged before the Iudge, or els remaine of none ef<g ref="char:EOLhyphen"/>fect.</p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>This godly order muſt needes be profitable to the Prince.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>Nay Madam much more profi<g ref="char:EOLhyphen"/>table I ſay to the common weale, for the auoyding of many brabling and wicked ſutes attempted in law.</p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>Father Pilgrim, I am well ſa<g ref="char:EOLhyphen"/>tiſfyed in theſe pointes. But how dooth Maiors or other gouernours of great Citties behaue the<g ref="char:cmbAbbrStroke">̄</g>ſelues?</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>O Madam exceeding well. For each ruler of a famous Citty deligh<g ref="char:EOLhyphen"/>teth not in Glottony, and Belly cheere, but rather is very vigilant and carefull for the benefyt of the Citty: he I ſay, commeth not vpon dayes appointed, to viſyt the Ba<g ref="char:EOLhyphen"/>kers and other Vittellers, but ra<g ref="char:EOLhyphen"/>ther followeth the order that Chriſt hath preſcribed, which is how his comming ſhalbe when he is not loo<g ref="char:EOLhyphen"/>ked
+<pb facs="tcp:10604:16"/>
+for: euen ſo dooth this good Ruler of <hi>Crangalor,</hi> come at ſuche tymes to viſyt the Cittizens, that ſome dooth reioyce, but others doo tremble at his ſodaine comming, ye in the night ſeaſon when others ſleepe at quyet reſt, he wandereth round about the Cittie, perſonally in all blinde lanes, and ſolitary pla<g ref="char:EOLhyphen"/>ces, to ſee what watch is kept, to harken for bibbers and dronkerds, to ſearche out Hoores, and Hoore<g ref="char:EOLhyphen"/>mongers, and to examine ſuſpiti<g ref="char:EOLhyphen"/>ous gueſtes. I am ſure Madam that the Gouernour of <hi>Crangalor,</hi> hath expulſed a number of ſuch vi<g ref="char:EOLhyphen"/>cious perſons, out of that Cittye, yea it ſeemeth now a terrenall pa<g ref="char:EOLhyphen"/>radice: but wot you what is the cauſe of this? Forſoothe at the time of the terme of expiration of the ſayde Gouernours charge, the Prince appointeth a new Gouer<g ref="char:EOLhyphen"/>nour, who commaundeth the for<g ref="char:EOLhyphen"/>mer Gouernour and al his officers,
+<pb facs="tcp:10604:16" rendition="simple:additions"/>
+to keepe their owne houſes as pri<g ref="char:EOLhyphen"/>ſoners for the ſpace of fortye dayes: and then Proclaymeth through<g ref="char:EOLhyphen"/>out the Cittye, that if any per<g ref="char:EOLhyphen"/>ſon or perſons, poore or ritche, can laye any extorcion, bribes, or other offence, againſt the ſayde Gouernour or Officers, that then they come and complaine, and ſhall haue preſent remedy and ſatiſfac<g ref="char:EOLhyphen"/>tion. But when thoſe fortye dayes are expired, and no offence founde: O what great Honour receyueth ſuch a Gouernoure: yea and how highly is he eſteemed of his Prince?</p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>Truely father Pilgrime that is a bleſſed Lande: but what can you ſaye of all ſuch officers, which hath the receite and dealinges a<g ref="char:EOLhyphen"/>boute the Princes reuenues?</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>Once in three yeare Ma<g ref="char:EOLhyphen"/>dam ſecret enquyrye is made of theyr dealinges, and theyr bookes narrowlye ſearched, ſo that the Prynce cannot bee deceyued.</p>
+            </sp>
+            <sp>
+               <pb facs="tcp:10604:17"/>
+               <speaker>L.</speaker>
+               <p>O father Pilgrime, the ſunne declyneth apace, and loth I am to leaue your godly conuerſation: but yet I pray you ſay, how dooth wo<g ref="char:EOLhyphen"/>men behaue themſelues in that con<g ref="char:EOLhyphen"/>trey.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>Very honeſt and vertu<g ref="char:EOLhyphen"/>ous they are Madam. For in that Citty, you ſhall not ſee neyther Wi<g ref="char:EOLhyphen"/>ues, nor Maydes with hand Baſ<g ref="char:EOLhyphen"/>kets, or otherwiſe wander about the Citty, becauſe the Huſbands and theyr men ſlaues do prepare all neceſſaries, for their houſes and Families: ſo that the women ſtraye not abroad, except on the Sabboth day, or other Feſtiuall dayes, when they go to the Temple, or els when they go abroade in their Huſbands company to recreate themſelues: for otherwiſe the Huſbandes feare that they ſhould haue ſome euill wares brought home in thoſe hand baſkets.</p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>I haue yet many other things to enquire of you: but I pray you tel me, haue you bin at any time
+<pb facs="tcp:10604:17"/>
+in England?</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>Neuer but once Madam, and then I came to the fa<g ref="char:EOLhyphen"/>mous Cittye of <hi>London,</hi> to take Shipping into <hi>Scithia.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>But that Lande?</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>Forſoothe Ma<g ref="char:EOLhyphen"/>dam at that time Raygned, and I hope yet dooth, a vertuous May<g ref="char:EOLhyphen"/>den Queene, whoſe beautye and rare vertues, whoſe wiſdom and ſynguler learning: yea her wonder<g ref="char:EOLhyphen"/>ful knowledge in ſundry languages: the like, I neuer heard nor knewe in in any parte of the worlde where I haue traueiled into: And yet haue I byn in ſome part of <hi>Aſia,</hi> in ſome part of <hi>America,</hi> and in ſome parte of <hi>Eu<g ref="char:EOLhyphen"/>ropia.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>This is beleeue me the ſtraungeſt thinge that as yet you haue tolde mee. God preſerue her, and if I were as younge as I haue byn, I would gladly go ſee ſo gra<g ref="char:EOLhyphen"/>cious a Lady and Maiden Queene. But I perceyue conſydering you went that way to take Shipping
+<pb facs="tcp:10604:18"/>
+into the Lande of <hi>Scithia,</hi> you had no leyſure to enquire of the commo<g ref="char:EOLhyphen"/>ditie of that Lande.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>No true<g ref="char:EOLhyphen"/>ly Madam, tyme would not permit me: for I was no ſooner come to <hi>London,</hi> but the ſhippes were rea<g ref="char:EOLhyphen"/>dye to hoyſe vp ſayles and depart.</p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>I feare father Pilgrime, the ſhutting in of <hi>Corinth</hi> Gates, be<g ref="char:EOLhyphen"/>cauſe night approcheth on ſo faſte: Wherefore good father, let vs now make the more haſte, and ſythe you are a ſtrainger here, you ſhall abide this night with me, with ſuch poore cheare as I may make you.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>God reward you good Madam, I wyll not refuſe your gentle offer.</p>
+               <p>Now the Lady <hi>Liſtra,</hi> and the Pilgrim enter into <hi>Corinth,</hi> where the Pilgrim was well entertayned and lodged: yea and at his depar<g ref="char:EOLhyphen"/>ture from thence, the Ladye gaue him ſpending money, for his ior<g ref="char:EOLhyphen"/>ney, with faithfull promiſe made by the Pilgrime at his returne, to ma<g ref="char:EOLhyphen"/>nifeſt
+<pb facs="tcp:10604:18"/>
+vnto that Lady, all ſtrainge things, that he ſhould heare or ſee in his pretended Iorney.</p>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="poem">
+            <head>Booke.</head>
+            <l>PIlgrime for thy telling troth,</l>
+            <l>Perhap thou ſhalt be ſhent:</l>
+            <l>In recompence of all thy toyle,</l>
+            <l>And time ſo godly ſpent.</l>
+         </div>
+         <div type="poem">
+            <head>Pilgrime.</head>
+            <l>WHat care I for recompence,</l>
+            <l>For profit or for gaine:</l>
+            <l>The God that gaue me fortitude,</l>
+            <l>VVill well rewarde my payne.</l>
+            <trailer>FINIS.</trailer>
+            <closer>
+               <signed>T. N.</signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
